@@ -97,7 +97,7 @@ header {
 
 .landing-page {
     height: calc(100vh - 60px);
-    background-image: url(/images/landing.jpg);
+    background-image: url(/landing.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
